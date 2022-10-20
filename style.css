@@ -537,13 +537,13 @@ summary::after{
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 40px;
+  margin-top: 20px;
   font-size: 22px;
   font-weight: 500;
 }
 
 .foot-email-box {
-  margin-top: 20px;
+  margin-top: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
